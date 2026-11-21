@@ -1,0 +1,13 @@
+.venv/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+.env
+.env.*
+chromadb/
+chroma_db/
+result_output/
+__pycache__/
+*.pyc
+.vscode/
